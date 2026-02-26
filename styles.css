@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: grey;
+  
+}
+
+h1 {
+    color: darkred;
+    
+    text-align: center;
+    font-size: 42px;
+}
+
+ul {
+    background-color: white;
+    padding: 40px;
+    width: 300px;
+    margin: 40px auto;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: x-large;
+}
+
+a:hover {
+    color: red;
+
+}
